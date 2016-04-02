@@ -18,7 +18,7 @@ function SetErrorsHandling () {
 } 
 
 /**
- * Returns the url parameter value
+ * Returns the url parameter value.
  */
 function GetUrlParam ($paramName, $defaultValue) {
   
