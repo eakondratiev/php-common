@@ -1,7 +1,7 @@
 <?php
 /*
  * Set of common functions.
- * Update: 2016-04-02
+ * Update: 2016-04-02, testing VS Code and Git.
  * __DIR__: the path to the web folder, for example: /var/www/html.
  */
 
