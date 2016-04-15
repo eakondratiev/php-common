@@ -24,20 +24,20 @@ Bullet list:
  * dollores.
 
 Numbered list:
+
 1. Lorem;
 2. Ipsum;
-    * Dollores;
 3. Transit.
 
 TODO List:
 - [x] Type something;
-- [ ] Do something usefuul.
+- [ ] Do something usefull.
 
 
 ```language 
 void main() {
-    int a;
-    a++
+    int c++;
+    return;
 }
 ```
 
