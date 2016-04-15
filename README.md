@@ -12,7 +12,7 @@ sdhdsjdhsd
 
 **BOLD TEXT** - quite simple.
 
-*Italic text* - even more simple. And strikethrough ~~$#%@#!~~
+*Italic text* - even more simple. And strikethrough, ~~$#%@#~~!
 
 `Monospace: 1 + 2 = 3.5`
 
