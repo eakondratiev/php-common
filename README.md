@@ -5,14 +5,11 @@ Read Me
 Set of common-use PHP functions.
 [My Github page](https://github.com/eakondratiev/)
 
-The GiHub account started on 3/17/2016.
-sdhdsjdhsd
+The GitHub account started on 3/17/2016.
 
-# Test the markdown
+# Test the Markdown Language
 
-**BOLD TEXT** - quite simple.
-
-*Italic text* - even more simple. And strikethrough, ~~$#%@#~~!
+**BOLD TEXT** - quite simple. *Italic text* - even more simple. And strikethrough, ~~$#%@#~~!
 
 `Monospace: 1 + 2 = 3.5`
 
